@@ -1,3 +1,10 @@
+## TODO:
+Still need:
+- Final Form examples
+- Redux Thunks Examples
+- Redux Sagas Examples
+- Okta Auth SSO Example
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
